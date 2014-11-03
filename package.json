@@ -1,0 +1,31 @@
+{
+  "name": "codius-example-multihost",
+  "version": "1.0.0",
+  "description": "Example for using Codius group functionality.",
+  "main": "contract.js",
+  "dependencies": {
+    "express": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codius/example-multihost.git"
+  },
+  "keywords": [
+    "codius",
+    "contract",
+    "distributed",
+    "multi-host",
+    "group",
+    "coordination"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/codius-example-multihost/issues"
+  },
+  "homepage": "https://github.com/justmoon/codius-example-multihost"
+}
